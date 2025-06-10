@@ -34,7 +34,7 @@ phil_df <- in_kml |> mutate(tst = str_remove_all(Description, str_flatten(useles
 header <- c(r"(Refresh: 999
 Threshold: 999
 Title: Philmont Scout Ranch -- Landmarks
-IconFile: 1,22,22,11,11,"D:/repos/philmont-placefile/bin/philmont_features.png")", "")
+IconFile: 1,22,22,11,11,"https://github.com/oonuttlet/philmont-placefile/blob/78548e4e22cbb12c6c6229ec3b9ab9564fe022ae/bin/philmont_features.png")", "")
 
 writeLines(str_flatten(c(header, phil_df$out), "\n"), r"(D:\repos\philmont-placefile\philmont-places.txt)")
 
