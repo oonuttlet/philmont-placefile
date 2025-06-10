@@ -1,0 +1,98 @@
+Refresh: 999
+Threshold: 999
+Title: Philmont Scout Ranch -- Landmarks
+IconFile: 1,22,22,11,11,"D:/repos/philmont-placefile/bin/philmont_features.png"
+
+Object: 36.5870401, -104.9643297
+Icon: 0,0,000,0,0,"Trailhead: Six Mile Trailhead"
+End:
+Object: 36.5983252, -105.0108044
+Icon: 0,0,000,0,0,"Trailhead: Nine Mile Trailhead"
+End:
+Object: 36.6134167, -105.0277936
+Icon: 0,0,000,0,0,"Trailhead: Ponil Trailhead"
+End:
+Object: 36.3806701, -104.9860019
+Icon: 0,0,000,0,0,"Trailhead: Zastrow Trailhead"
+End:
+Object: 36.3653927, -104.9304877
+Icon: 0,0,000,0,0,"Trailhead: Rayado Trailhead"
+End:
+Object: 36.434215, -104.9937114
+Icon: 0,0,000,0,0,"Trailhead: Lovers Leap Trailhead"
+End:
+Object: 36.591826, -105.1324515
+Icon: 0,0,000,0,0,"Trailhead: Express Trailhead"
+End:
+Object: 36.5541548, -104.923134
+Icon: 0,0,000,0,0,"Trailhead: Chase Trailhead"
+End:
+Object: 36.5608148, -105.088727
+Icon: 0,0,000,0,0,"Trailhead: Ute Park Trailhead"
+End:
+Object: 36.4208505, -104.9592684
+Icon: 0,0,000,0,0,"Trailhead: Urraca Trailhead"
+End:
+Object: 36.4758463, -104.995252
+Icon: 0,0,000,0,0,"Trailhead: Webster Trailhead"
+End:
+Object: 36.3790768, -105.0149994
+Icon: 0,0,000,0,0,"Trailhead: Abreu Trailhead"
+End:
+Object: 36.5370952, -105.2248156
+Icon: 0,0,000,0,0,"Trailhead: Tolby Trailhead"
+End:
+Object: 36.8335032, -105.222972
+Icon: 0,0,000,0,1,"Peak: Little Costilla"
+End:
+Object: 36.6280396, -105.0240048
+Icon: 0,0,000,0,1,"Peak: Hart Peak"
+End:
+Object: 36.4641739, -105.1314708
+Icon: 0,0,000,0,1,"Peak: Big Red"
+End:
+Object: 36.4496129, -105.0821366
+Icon: 0,0,000,0,1,"Peak: Black Mountain"
+End:
+Object: 36.4766663, -105.1594967
+Icon: 0,0,000,0,1,"Peak: Mount Phillips"
+End:
+Object: 36.4383866, -104.9852865
+Icon: 0,0,000,0,2,"Program: COPE Course"
+End:
+Object: 36.3883175, -105.0856669
+Icon: 0,0,000,0,1,"Peak: Lookout Peak"
+End:
+Object: 36.8074768, -105.2045501
+Icon: 0,0,000,0,1,"Peak: Ash Mountain"
+End:
+Object: 36.630306, -105.2128431
+Icon: 0,0,000,0,1,"Peak: Baldy Mountain"
+End:
+Object: 36.4442212, -105.1168703
+Icon: 0,0,000,0,1,"Peak: Bonito Peak"
+End:
+Object: 36.4797748, -105.1436959
+Icon: 0,0,000,0,1,"Peak: Comanche Peak"
+End:
+Object: 36.4504674, -105.0372145
+Icon: 0,0,000,0,1,"Peak: Shaefers Peak"
+End:
+Object: 36.487358, -105.057291
+Icon: 0,0,000,0,1,"Peak: Window Rock"
+End:
+Object: 36.4096616, -105.0681822
+Icon: 0,0,000,0,1,"Peak: Trail Peak"
+End:
+Object: 36.4481454, -105.0079604
+Icon: 0,0,000,0,1,"Peak: Tooth of Time"
+End:
+Object: 36.4808194, -105.0594208
+Icon: 0,0,000,0,2,"Program: Demonstration Forest"
+End:
+Object: 36.6408359, -105.1087349
+Icon: 0,0,000,0,1,"Peak: Wilson Mesa"
+End:
+Object: 36.5950589, -104.9719269
+Icon: 0,0,000,0,2,"Program: T-Rex Track"
+End:
