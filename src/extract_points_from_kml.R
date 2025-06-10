@@ -32,7 +32,7 @@ phil_df <- in_kml |> mutate(tst = str_remove_all(Description, str_flatten(useles
 
 
 header <- c(r"(Refresh: 999
-Threshold: 999
+Threshold: 30
 Title: Philmont Scout Ranch -- Landmarks
 IconFile: 0,22,22,11,11,"https://raw.githubusercontent.com/oonuttlet/philmont-placefile/0c7b95874750572aa5ffbf05e1b0ce37bd5b2100/bin/philmont_features.png")", "")
 
