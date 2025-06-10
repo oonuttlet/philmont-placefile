@@ -1,7 +1,7 @@
 Refresh: 999
 Threshold: 999
 Title: Philmont Scout Ranch -- Landmarks
-IconFile: 0,22,22,11,11,"https://raw.githubusercontent.com/oonuttlet/philmont-placefile/refs/heads/main/bin/philmont_features.png"
+IconFile: 0,22,22,11,11,"https://raw.githubusercontent.com/oonuttlet/philmont-placefile/0c7b95874750572aa5ffbf05e1b0ce37bd5b2100/bin/philmont_features.png"
 
 Object: 36.5870401, -104.9643297
 Icon: 0,0,000,0,1,"Trailhead: Six Mile Trailhead"
