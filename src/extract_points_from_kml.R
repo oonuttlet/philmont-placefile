@@ -25,9 +25,9 @@ phil_df <- in_kml |> mutate(tst = str_remove_all(Description, str_flatten(useles
   st_drop_geometry() |>
   select(-c(FID)) |>
   mutate(Object = paste0("Object: ", y_coord, ", ", x_coord),
-    Icon = case_when(Type == "Trailhead" ~ paste0(r"(Icon: 0,0,000,0,0,"Trailhead: )", Name, r"(")"),
-                     Type == "Peak" ~ paste0(r"(Icon: 0,0,000,0,1,"Peak: )", Name, r"(")"),
-                     Type == "Program" ~ paste0(r"(Icon: 0,0,000,0,2,"Program: )", Name, r"(")")),
+    Icon = case_when(Type == "Trailhead" ~ paste0(r"(Icon: 0,0,000,0,1,"Trailhead: )", Name, r"(")"),
+                     Type == "Peak" ~ paste0(r"(Icon: 0,0,000,0,2,"Peak: )", Name, r"(")"),
+                     Type == "Program" ~ paste0(r"(Icon: 0,0,000,0,3,"Program: )", Name, r"(")")),
     out = paste0(Object, "\n", Icon, "\n", "End:"))
 
 
